@@ -15,3 +15,9 @@ Everything should work and show on your serverlist.
 To access serverlist browse to http://YourDomainOrIP/serverlist or
 
 browse to http://YourDomainOrIP/serverlist/index.php
+
+## If you guys want to see how it works
+
+This Code is based off of the principles shown at
+
+https://minecraft.fandom.com/wiki/Classic_server_protocol#Heartbeats

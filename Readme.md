@@ -6,7 +6,7 @@ To install you will need to download the files from the "Latest" Folder.
 
 Next you will need PHP 8.2 Minimum and you need MySQL 8.0.34.0 minumum.
 
-Copy all the files to your web page. then import the sql file in PhpMyAdmin
+Copy all the files to your web page. Then import the sql file in PhpMyAdmin
 
 Lastly set your Heartbeat to http://YourDomainOrIP/Heartbeat.php
 
